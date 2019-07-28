@@ -76,14 +76,7 @@ A OFFER has a 'triggerItem' - [item that needs to be in the BASKET].  A 'trigger
   
 ```
 
-##Running the App
+##Downloading the App
 ```
-* Copy the PriceBasket.jar file into a directory of your choosing.  
-* Open a command /terminal window and navigate to the directory that you have copied the PriceBasket.jar into. 
-* Type the following command:
-* java -jar PriceBasket.jar item item item …
-
-e.g.  java -jar PriceBasket.jar Soup Apples Milk Bread
-```
-
-`Note` - My Machines CLASSPATH was not configured so I was unable to compile and test the app using the given method of 'PriceBascket item item item ...'  Once compiled correctly the App should execute using the given format on the  command line.   
+* The full code can be downloaded or cloned from GitHub at : https://github.com/twine12b/adthena
+```  
