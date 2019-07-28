@@ -57,7 +57,7 @@ Multi buy discounts are applied to alternative items.  E.g. Buy 2 tins of Soup a
 
 A OFFER has a 'triggerItem' - [item that needs to be in the BASKET].  A 'triggerQty' - [the quantity of a particular item in the BASKET].  An 'OfferItem' - [The associated item that any discount will be applied to] and a 'offerDiscount' - [discount percentage].
 
-##BasketService
+## BasketService
 ```
 == Methods ==
 * addItem - takes a string and looks up the corresponding GOODS item before adding it to a BASKET.
@@ -76,7 +76,7 @@ A OFFER has a 'triggerItem' - [item that needs to be in the BASKET].  A 'trigger
   
 ```
 
-##Downloading the App
+## Downloading the App
 ```
 * The full code can be downloaded or cloned from GitHub at : https://github.com/twine12b/adthena
 ```  
